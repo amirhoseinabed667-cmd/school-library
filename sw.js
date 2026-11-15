@@ -1,5 +1,5 @@
 /* Service Worker — کتابخانه مدرسه PWA v1.3.0 */
-const CACHE = 'school-lib-v19';
+const CACHE = 'school-lib-v20';
 const ASSETS = [
   './',
   './index.html',
